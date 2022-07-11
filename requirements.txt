@@ -18,3 +18,4 @@ seaborn
 plotly
 statsmodels
 scikit-learn
+folium
