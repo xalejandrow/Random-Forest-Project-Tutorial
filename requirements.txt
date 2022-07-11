@@ -17,3 +17,4 @@ sklearn
 seaborn
 plotly
 statsmodels
+scikit-learn
