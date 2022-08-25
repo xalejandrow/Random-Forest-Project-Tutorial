@@ -19,3 +19,4 @@ plotly
 statsmodels
 scikit-learn
 folium
+xgboost
